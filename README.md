@@ -4,7 +4,7 @@ Hardware
 How to use robotiky brain.
 
 I'll fill out the details of the brain in more detail in future. But just to get you started create an account on https://developer.mbed.org/account/signup. Then create a new program for the LPC11U24 and use the below as a sample program.
-
+```
 #include "mbed.h" 
 /**
  * Initialize the system
@@ -88,3 +88,4 @@ int main() {
         wait(0.2);
     }
 }
+```
