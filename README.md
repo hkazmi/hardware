@@ -3,6 +3,8 @@ Hardware
 
 How to use robotiky brain.
 
+First you need to solder the pin header on either side of the robot, the spacing is correct for a breadboard, so if you solder them in on the bottom you can stick it into a standard on.
+
 I'll fill out the details of the brain in more detail in future. But just to get you started create an account on https://developer.mbed.org/account/signup. Then create a new program for the LPC11U24 and use the below as a sample program.
 ```
 #include "mbed.h" 
